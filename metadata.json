@@ -1,0 +1,6 @@
+{
+  "name": "Google Drive Storage Pool Manager",
+  "description": "Secure multi-account Google Drive pooling dashboard with AES-256 encrypted token persistence, zero local storage streaming proxy, and unified virtual file manager.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
